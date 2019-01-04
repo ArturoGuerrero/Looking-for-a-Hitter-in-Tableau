@@ -7,6 +7,7 @@ In this repository you will find three documents:
 •	And two Tableau files:
 
 o	The first version Looking for a hitter.twbx before having share it at the Udacity Student Hub.
+
 o	The second version Looking for a hitter v2.twbx after added the changes suggested by the mentors.
 
 The Tableau files are also in Tableau Public:
