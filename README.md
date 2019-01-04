@@ -13,6 +13,7 @@ o	The second version Looking for a hitter v2.twbx after added the changes sugges
 The Tableau files are also in Tableau Public:
 First version:
 https://public.tableau.com/profile/arturo3591#!/vizhome/Lookingforahitter/Lookingforahitter
+
 The second version:
 https://public.tableau.com/profile/arturo3591#!/vizhome/Lookingforahitterv2/Lookingforahitter?publish=yes
 
